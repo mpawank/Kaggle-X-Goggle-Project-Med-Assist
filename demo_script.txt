@@ -1,0 +1,7 @@
+Hi — we are Pawan and <FriendName> and this is MedAssist, an AI prototype for conservative medical triage and clinician note generation.
+
+In 60 seconds: we run three sessions: a routine cold (low priority), a prolonged fever (moderate), and chest pain (emergency) which triggers automatic escalation. Outputs include a patient-friendly summary and a clinician SOAP note.
+
+We emphasize safety: red-flag detection, explicit disclaimers, and no diagnostic/treatment claims. The notebook runs in mock mode so judges can reproduce results without API keys.
+
+Thank you — GitHub link and Kaggle notebook are in the submission.

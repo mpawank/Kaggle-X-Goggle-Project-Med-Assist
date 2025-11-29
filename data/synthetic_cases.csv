@@ -1,0 +1,21 @@
+id,age,sex,chief_complaint,duration_days,severity,expected_level
+c001,25,F,fever and cough,2,3,Low
+c002,70,M,chest pain and sweating,0,9,Emergency
+c003,45,F,progressive shortness of breath,3,8,High
+c004,30,M,mild headache,1,2,Low
+c005,50,F,fever for 10 days,10,6,Moderate
+c006,16,F,loss of consciousness,0,10,Emergency
+c007,28,M,abdominal pain severe,1,7,High
+c008,60,F,slurred speech and one-sided weakness,0,10,Emergency
+c009,40,M,sore throat,2,3,Low
+c010,34,F,high fever 39C,3,7,Moderate
+c011,80,M,collapse and not breathing,0,10,Emergency
+c012,22,F,lightheadedness,1,4,Low
+c013,55,F,severe bleeding after injury,0,9,Emergency
+c014,37,M,chronic cough 20 days,20,5,High
+c015,45,F,leg swelling,5,4,Moderate
+c016,29,M,mild back pain,2,2,Low
+c017,66,F,confusion sudden,0,9,Emergency
+c018,50,M,fever and cough 8 days,8,6,Moderate
+c019,14,F,allergic reaction swelling face,0,9,Emergency
+c020,48,M,persistent vomiting 4 days,4,6,Moderate
